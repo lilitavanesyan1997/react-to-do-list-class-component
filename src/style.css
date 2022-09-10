@@ -1,0 +1,39 @@
+body{
+  width: 100%;
+  height: 450px;
+  background:linear-gradient(rgb(217, 175, 223), rgb(87, 18, 69));
+  background-repeat: no-repeat;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.btn{
+  background: rgb(129, 60, 110);
+  margin: 10px;
+}
+
+.add-btn{
+  background: rgb(197, 69, 209);
+  width: 40px;
+  height: 25px;
+}
+.App{
+  text-align: center;
+  color: rgb(138, 48, 114);
+  font-size: 30px;
+  width: 100%;
+  text-shadow: 0 0 10px black,
+  0 0 20px rgb(44, 12, 73);
+}
+
+li{
+  width: 200px;
+  height:30px;
+  color: black;
+  padding-left:px;
+  font-size: 15px;
+  margin: 10px 50px;
+  
+
+
+}
